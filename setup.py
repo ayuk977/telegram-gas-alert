@@ -8,7 +8,7 @@ with open("README.md", "r") as f:
 
 setup(
     name="telegram-gas-alert",
-    version="1.0.0",
+    version="1.0.1",
     license="GPL",
     long_description=long_description,
     url="https://github.com/ayuk977/telegram-gas-alert",
