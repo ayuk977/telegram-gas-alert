@@ -1,6 +1,6 @@
 # Telegram Gas Alert
 
-This app is for making an alert if the gas on etherscan us under 20 gwei 
+This app is for making an alert if the gas on etherscan under 20 gwei 
 
 
 ## How To Use this Repository in your local host
